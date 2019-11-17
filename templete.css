@@ -1,0 +1,149 @@
+
+body{
+margin:0px;
+font-family:sans-serif,arial;
+width:1300px;
+background:gray;
+}
+.maincontent{
+display:flex;
+justify-content:flex-start;
+
+}
+.leftpart{
+width:350px;
+height:1800px;
+background:gray;
+color:white;
+text-align:center;
+padding:2px;
+}
+.leftpart ul{
+text-decoration:none;
+list-style-type:none;
+padding:4px;
+}
+.leftpart li{
+line-height:50px;
+}
+.rightcontent{
+background:#98FB98;
+}
+.rightcontent header{
+width:1050px;
+height:60px;
+background:white;
+display:flex;
+align-items:center;
+justify-content:space-around;
+border:5px solid black;
+color:black;
+margin-left:0px
+align-items:center;
+}
+.rightcontent header img{
+width:50px;
+height:50px;
+border:3px solid gray;
+border-radius:25px;
+color:red;
+}
+.rightcontent header span input{
+width:150px;height:40px;border-radius:20px;border:2px solid black;text-align:center;}
+.box{
+display:flex;
+margin:0px;
+justify-content:space-around;
+align-items:center;
+width:1050px;
+height:220px;
+}
+.boxborder{
+width:200px;
+background-color:#EEE8AA;
+height:150px;
+border:5px solid gray;
+border-radius:40px;
+text-align:center;
+}
+.divbox2,.divbox3,.divbox4{ display:flex;
+justify-content:space-around;
+}
+.box1{
+background:#FFDEAD;
+width:600px;
+height:400px;
+padding:8px;
+}
+.box1 ul{
+list-style-type:none;
+}
+.box1 li{
+line-height:30px;
+}
+#harizantal{
+margin-left:90px;
+}
+#harizantal span{
+word-spacing:10px;
+}
+.box2{
+background:#FFDEAD;
+width:350px;
+height:400px;
+padding:8px;
+}
+.box2 li img{
+width:40px;
+height:40px;
+border-radius:15px;
+float:left;
+paddig:15px;
+}
+.box2 li{
+padding:20px;
+text-align:justify;
+text-align:center;
+}
+.box31{
+margin-top:50px;
+background:#ADD8E6;
+width:300px;
+height:500px;
+}
+.box31 img{ width:280;
+height:400;
+margin:10px;
+}
+.box31 h2{
+text-align:center;
+}
+.jayaram ul{
+list-style-type:none;
+margin-top:30px;
+overflow:hidden;
+}
+.jayaram li{float:left;
+margin:0px;padding-left:40px;}
+.jayaram li a{
+text-decoration:none;
+padding:15px 35px;
+display:block;
+margin:0px;
+}
+.box41,.box42{
+width:450px;
+height:400px;
+background:#808000;
+margin-top:50px;
+}
+.box42 img{
+width:400;
+height:350px;
+padding:25px;
+}
+.box41 img{
+width:400;
+height:350px;
+padding:25px;
+}
